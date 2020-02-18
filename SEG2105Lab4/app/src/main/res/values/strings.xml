@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Team Manager</string>
+
+    <string name="title_profile">Soccer Team Manager</string>
+    <string name="team_name_hint_profile">(Please enter a team name)</string>
+    <string name="team_name_profile">Team name</string>
+    <string name="team_zip_hint_profile">(Please enter a ZIP code)</string>
+    <string name="team_zip_profile">Team Address</string>
+    <string name="map_open_btn_profile">Open in google maps</string>
+
+    <string name="title_select">Select a new Avatar</string>
+    <string name="text_select">Load From Album</string>
+</resources>
