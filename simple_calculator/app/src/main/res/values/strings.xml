@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SimpleCalc</string>
+    <string name="action_settings">大帅比</string>
+    <string name="resultEdit">0</string>
+    <string name="algebraEdit"></string>
+    <string name="editionText">Beta 0.93 - Special edition</string>
+    <string name="btn01">C</string>
+    <string name="btn02">×</string>
+    <string name="btn03">÷</string>
+    <string name="btn04">DEL</string>
+    <string name="btn05">+</string>
+    <string name="btn06">7</string>
+    <string name="btn07">8</string>
+    <string name="btn08">9</string>
+    <string name="btn09">-</string>
+    <string name="btn10">4</string>
+    <string name="btn11">5</string>
+    <string name="btn12">6</string>
+    <string name="btn13">0</string>
+    <string name="btn14">1</string>
+    <string name="btn15">2</string>
+    <string name="btn16">3</string>
+    <string name="btn17">.</string>
+    <string name="btn18">=</string>
+</resources>
